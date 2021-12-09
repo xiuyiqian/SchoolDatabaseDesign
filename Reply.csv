@@ -1,0 +1,52 @@
+﻿2fe1da67-5623-11ec-8ebc-b46bfc47735d,be0971d9-5621-11ec-adcc-b46bfc47735d,9/5/2021 16:35,I think we are trying to list out the last name of the athletes that are in countries that neither have competed yet or none of their athletes have ranked in the top 3 so far.,ize3lkeNiR
+2fe1da68-5623-11ec-ac9b-b46bfc47735d,be0971d9-5621-11ec-adcc-b46bfc47735d,9/5/2021 20:45,Yes Elaine is correct in this response.,WJrWAidLZ5
+2fe1da69-5623-11ec-a6dc-b46bfc47735d,be0971dc-5621-11ec-93b1-b46bfc47735d,9/5/2021 15:45,You can draw an analogy between the relational schema and classes in Java. Then you can think of relation state as the objects that are defined at that particular time.,A1Kcf8Z1u3
+2fe1da6a-5623-11ec-bf1d-b46bfc47735d,be0971dc-5621-11ec-93b1-b46bfc47735d,9/5/2021 13:35,The relational schema is the structure and design of the relation such as the attribute list. The relation state is like the table content at any given moment.,ize3lkeNiR
+2fe1da6b-5623-11ec-8ea2-b46bfc47735d,be0971dd-5621-11ec-9361-b46bfc47735d,10/15/2021 13:32,The numbers seem to be incorrect and it seems the points were posted?,ize3lkeNiR
+2fe1da6c-5623-11ec-838f-b46bfc47735d,be0971dd-5621-11ec-9361-b46bfc47735d,10/15/2021 20:02,Sorry about the mistake the correct question items were posted now.,A1Kcf8Z1u3
+2fe1da6d-5623-11ec-bebe-b46bfc47735d,be0971dd-5621-11ec-9361-b46bfc47735d,10/15/2021 23:32,Where can we find the spreadsheet?,A3mMrNEFsy
+2fe1da6e-5623-11ec-83e6-b46bfc47735d,be0971dd-5621-11ec-9361-b46bfc47735d,10/15/2021 23:59,The spreadsheet is under the Assignment2 folder.,tmt3aPs20s
+2fe1da6f-5623-11ec-bf46-b46bfc47735d,be0971dd-5621-11ec-9361-b46bfc47735d,10/16/2021 0:11,Thanks Nikhil!,A3mMrNEFsy
+2fe1da70-5623-11ec-a67e-b46bfc47735d,be0971de-5621-11ec-8718-b46bfc47735d,10/9/2021 10:24,You can assume that each city has a distance name so you would consider Atlanta GA to be the same name as Atlanta FL,A1Kcf8Z1u3
+2fe1da71-5623-11ec-8e4f-b46bfc47735d,be0971de-5621-11ec-8718-b46bfc47735d,10/25/2021 13:45,Does this apply for Q9 as well?,Xo3aGKAsfE
+2fe1da72-5623-11ec-a1c8-b46bfc47735d,be0971de-5621-11ec-8718-b46bfc47735d,10/25/2021 18:21,Not sure which part you are asking but if its whether Beaverton only exists in OR then no.,
+2fe1da73-5623-11ec-a11c-b46bfc47735d,be0971df-5621-11ec-b9f6-b46bfc47735d,10/16/2021 6:23,You can use temporal relations (see WITH and FROM) to do this rather than create temporary tables,PiQvBSPut9
+2fe1da74-5623-11ec-abc2-b46bfc47735d,be0971e3-5621-11ec-9142-b46bfc47735d,10/1/2021 17:41,I believe just choosing a random card from the deck to deal out cards is enough.,qBhsb9AT1D
+2fe1da75-5623-11ec-b056-b46bfc47735d,be0971e3-5621-11ec-9142-b46bfc47735d,10/1/2021 18:51,As long as there is some point of randomness that is involved it will be sufficient.,A1Kcf8Z1u3
+2fe1da76-5623-11ec-bd56-b46bfc47735d,be0971e3-5621-11ec-9142-b46bfc47735d,10/3/2021 4:32,Should we consider the situation when the deck is running out of cards?,YXCMIivcy6
+2fe1da77-5623-11ec-a677-b46bfc47735d,be0971e3-5621-11ec-9142-b46bfc47735d,10/3/2021 8:47,Yes your application should gracefully handle this situation.,cp5asEx6KR
+2fe1da78-5623-11ec-9589-b46bfc47735d,be0971e4-5621-11ec-be95-b46bfc47735d,10/1/2021 20:23,I think there's no specific rule in Blackjack for when an ace is counted as a 1 or an 11. I assumed we have to keep track of the total score in both cases: when the ace is a 1 and when the ace is an 11.,wUSNkrt2i7
+2fe1da79-5623-11ec-96c4-b46bfc47735d,be0971e4-5621-11ec-be95-b46bfc47735d,10/1/2021 23:22,The general rule of thumb is that the Ace will take on the value of whatever will help the holder the most,RxNqRHaaoI
+2fe1da7a-5623-11ec-b321-b46bfc47735d,be0971e5-5621-11ec-8bde-b46bfc47735d,10/14/2021 17:11,Take advantage of what the method move() returns. It is true in certain situations and false in others. You can then push depending on the value.,YXCMIivcy6
+2fe1da7b-5623-11ec-9635-b46bfc47735d,be0971e5-5621-11ec-8bde-b46bfc47735d,10/15/2021 5:19,The move method checks if a move is legal for you. You should use this method to change the behavior of your code based on whether or not it returns true or false.,RwKSObZt8b
+2fe1da7c-5623-11ec-86b4-b46bfc47735d,be0971e6-5621-11ec-acde-b46bfc47735d,10/16/2021 10:04,This actually happened to me as well on the previous assignment. I was told that I wouldn't be penalized so I think you'll be fine,qBhsb9AT1D
+2fe1da7d-5623-11ec-963e-b46bfc47735d,be0971e6-5621-11ec-acde-b46bfc47735d,10/16/2021 12:01,Resubmissions with the same filename on Canvas will automatically add a -1 etc to the files. The student answer is correct in that you will not be penalized for this.,QVsfnLS8nP
+2fe1da7e-5623-11ec-af4e-b46bfc47735d,be0971e7-5621-11ec-979e-b46bfc47735d,10/31/2021 20:01,Exceptions stop execution,wUSNkrt2i7
+2fe200c9-5623-11ec-b818-b46bfc47735d,be0971e9-5621-11ec-8e10-b46bfc47735d,2/4/2021 7:05,I think the bowtie means natural join,v9ksRoAENe
+2fe200ca-5623-11ec-98c0-b46bfc47735d,be0971ea-5621-11ec-8cb3-b46bfc47735d,4/9/2021 20:26,Everything up until today's lecture can be included as material on the exam,JulFHBBgP9
+2fe200cb-5623-11ec-967a-b46bfc47735d,be0971eb-5621-11ec-b400-b46bfc47735d,3/21/2021 10:59,Use homebrew to install Postgres on Mac and Linux. Download the windows installer to install on Windows.,A1Kcf8Z1u3
+2fe200cc-5623-11ec-b004-b46bfc47735d,be0971ec-5621-11ec-ae04-b46bfc47735d,3/29/2021 4:47,I think it does matter. I must be after the WHERE clause and before the HAVING; LIMIT; and ORDER BY,OhfDW5FQet
+2fe200cd-5623-11ec-82b9-b46bfc47735d,be0971ec-5621-11ec-ae04-b46bfc47735d,3/29/2021 9:35,Hanna is correct. SQL first executes the FROM; then WHERE; before finally performing the GROUP BY clause,A1Kcf8Z1u3
+2fe200ce-5623-11ec-93aa-b46bfc47735d,be0971ed-5621-11ec-8e70-b46bfc47735d,4/25/2021 13:39,Please submit a regrade request via email to me with the email header [CS377],JulFHBBgP9
+2fe200cf-5623-11ec-9de5-b46bfc47735d,be0971ee-5621-11ec-b466-b46bfc47735d,4/10/2021 17:01,Have you tried reloading the page or clearing your cache?,Rjuqf7P3nX
+2fe200d0-5623-11ec-8f1f-b46bfc47735d,be0971ef-5621-11ec-8961-b46bfc47735d,4/17/2021 16:11,Try cloud.google.com,QVsfnLS8nP
+2fe200d1-5623-11ec-a957-b46bfc47735d,be0971f0-5621-11ec-baea-b46bfc47735d,5/1/2021 5:48,Everything covered in the class can appear on the final exam,JulFHBBgP9
+2fe200d2-5623-11ec-a753-b46bfc47735d,be0971f1-5621-11ec-a729-b46bfc47735d,4/26/2021 7:35,2NF looks at partial functional dependency while 3NF ensures no non-prime attribute functionally determines another non-prime attribute,JulFHBBgP9
+2fe200d3-5623-11ec-bba6-b46bfc47735d,be0971f1-5621-11ec-a729-b46bfc47735d,4/26/2021 8:11,Why is database normalization important?,qjAClhRo8T
+2fe200d4-5623-11ec-a764-b46bfc47735d,be0971f1-5621-11ec-a729-b46bfc47735d,4/26/2021 12:41,Database normalization is important because it's a rite of passage into the database community,Rjuqf7P3nX
+2fe200d5-5623-11ec-927f-b46bfc47735d,be0971f2-5621-11ec-b058-b46bfc47735d,9/15/2020 8:01,I like Sublime Text Editor and using the command line to compile,RxNqRHaaoI
+2fe200d6-5623-11ec-b7b7-b46bfc47735d,be0971f2-5621-11ec-b058-b46bfc47735d,9/15/2020 8:23,Have you tried Eclipse? It's the best!,RwKSObZt8b
+2fe200d7-5623-11ec-8573-b46bfc47735d,be0971f2-5621-11ec-b058-b46bfc47735d,9/15/2020 11:04,What about Netbeans? It was originally part of the JDK.,AnRRwDoMFm
+2fe200d8-5623-11ec-8807-b46bfc47735d,be0971f2-5621-11ec-b058-b46bfc47735d,9/15/2020 11:05,IntelliJ is also another useful IDE,ECk9NPOnC1
+2fe200d9-5623-11ec-92fb-b46bfc47735d,be0971f2-5621-11ec-b058-b46bfc47735d,9/15/2020 11:55,Microsoft Visual Studio has a student developer pack as well.,JulFHBBgP9
+2fe200da-5623-11ec-bc9b-b46bfc47735d,be0971f3-5621-11ec-8b9f-b46bfc47735d,10/13/2020 22:55,As long as its within reasonable time frames you will not be deducted points.,ECk9NPOnC1
+2fe200db-5623-11ec-b2f0-b46bfc47735d,be0971f4-5621-11ec-96f8-b46bfc47735d,10/28/2020 5:19,You may want to verify that you are appropriately updating your variables. Try using System.out.println.,ECk9NPOnC1
+2fe200dc-5623-11ec-be54-b46bfc47735d,be0971f5-5621-11ec-91ba-b46bfc47735d,11/12/2020 14:10,You may want to explore different shuffle variants that are found on Wikipedia.,JulFHBBgP9
+2fe200dd-5623-11ec-87a2-b46bfc47735d,be0971f6-5621-11ec-afe6-b46bfc47735d,11/28/2020 9:18,You may want to rewatch the lecture 23 and reread the slides to see how this is solved for the general case.,JulFHBBgP9
+2fe200de-5623-11ec-b2f3-b46bfc47735d,be0971f7-5621-11ec-974d-b46bfc47735d,2/28/2020 7:41,Please try using the GCP instance to avoid having to implement your local copy.,JulFHBBgP9
+2fe200df-5623-11ec-819b-b46bfc47735d,be0971f8-5621-11ec-9096-b46bfc47735d,4/1/2020 2:35,No it doesn't matter so long as it can functionally browse the database.,fC8CoZyN8g
+2fe200e0-5623-11ec-acd0-b46bfc47735d,be0971f8-5621-11ec-9096-b46bfc47735d,4/1/2020 11:05,Do I need to sanitize the user input?,tmt3aPs20s
+2fe200e1-5623-11ec-a2a7-b46bfc47735d,be0971f8-5621-11ec-9096-b46bfc47735d,4/1/2020 14:15,You can assume that we will be reasonable users and not try to hack your system.,JulFHBBgP9
+2fe200e2-5623-11ec-9386-b46bfc47735d,be0971f9-5621-11ec-9932-b46bfc47735d,4/2/2020 19:47,I believe we should be using JDK 8.0,WJrWAidLZ5
+2fe200e3-5623-11ec-aaa3-b46bfc47735d,be0971fa-5621-11ec-b803-b46bfc47735d,4/10/2020 14:49,Yes they have been uploaded onto Canvas.,JulFHBBgP9
+2fe200e4-5623-11ec-9d90-b46bfc47735d,be0971fb-5621-11ec-bf0e-b46bfc47735d,5/2/2020 5:37,No there won't be any solutions for the sample final problems.,JulFHBBgP9

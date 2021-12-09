@@ -1,0 +1,7 @@
+1 )In the dataset, All empty field fills with -1 
+
+2) When the instructor input the grade for specific assignment, as I have already assigned each assignment ID number. The Instructor only needs to search by the ID number of assignment.
+
+3） The Post and Answer Page link is at the very button click Go G&A
+
+34.145.37.193/Login.php
